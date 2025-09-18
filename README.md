@@ -1,16 +1,20 @@
-Life before You
-This repository contains a full-stack web application designed to generate a "past life prophecy" for a user. It consists of a React frontend, a .NET Core Web API backend, and the reference React-based map app.
+# 🕰️ Past Life Revealer
 
-Project Overview
-Past Life Frontend: A modern, single-page application built with React and styled using Tailwind CSS and the shadcn/ui component library. It serves as the user interface for the application.
+This repository contains a **full-stack web application** designed to generate a "past life prophecy" for a user. It includes:
 
-Past Life Backend: A RESTful API built with .NET Core. It provides the data for the frontend, which is then used to generate the prophecy.
+- A React frontend (with Tailwind CSS + shadcn/ui)
+- A .NET Core Web API backend
+- An additional map-based React project that was included in the challenge. For bug-fixing purposes
 
-Repository Structure
-This repository uses a monorepo structure to keep all related projects in one place.
+---
 
-/
-├── past-life-frontend/
-├── past-life-backend/
-├── example-map-project/
-├── README.md
+## 📦 Project Overview
+
+### 🔮 Past Life Frontend
+A React application with **Tailwind CSS** and **shadcn/ui** that feeds off the .Net Core API to get the data 
+
+### 🧠 Past Life Backend
+A **RESTful API** built using **.NET Core**. It provides the backend logic and serves data to the frontend for generating the prophecy.
+
+### 🗺️ Map Project
+A separate React project showcasing **map integration** - which was included in the challenge, to check for bugs
