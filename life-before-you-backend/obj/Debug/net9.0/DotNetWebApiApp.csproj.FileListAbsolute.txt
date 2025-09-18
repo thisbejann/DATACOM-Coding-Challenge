@@ -1,0 +1,141 @@
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\appsettings.Development.json
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\appsettings.json
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.staticwebassets.endpoints.json
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.exe
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.deps.json
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.runtimeconfig.json
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.pdb
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Core.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Generation.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\Coding Challenge\life-before-you-backend\bin\Debug\net9.0\YamlDotNet.dll
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.csproj.AssemblyReference.cache
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.AssemblyInfoInputs.cache
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.AssemblyInfo.cs
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.csproj.CoreCompileInputs.cache
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\scopedcss\bundle\DotNetWebApiApp.styles.css
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWe.86CDE0D2.Up2Date
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.dll
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\refint\DotNetWebApiApp.dll
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.pdb
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.genruntimeconfig.cache
+C:\Coding Challenge\life-before-you-backend\obj\Debug\net9.0\ref\DotNetWebApiApp.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\appsettings.json
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\DotNetWebApiApp.staticwebassets.endpoints.json
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\DotNetWebApiApp.exe
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\DotNetWebApiApp.deps.json
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\DotNetWebApiApp.runtimeconfig.json
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\DotNetWebApiApp.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\DotNetWebApiApp.pdb
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NJsonSchema.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NSwag.Core.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NSwag.Generation.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\Coding Challenge\DotNetWebApiApp\bin\Debug\net9.0\YamlDotNet.dll
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.csproj.AssemblyReference.cache
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.AssemblyInfoInputs.cache
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.AssemblyInfo.cs
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.csproj.CoreCompileInputs.cache
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\scopedcss\bundle\DotNetWebApiApp.styles.css
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWe.86CDE0D2.Up2Date
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.dll
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\refint\DotNetWebApiApp.dll
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.pdb
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\DotNetWebApiApp.genruntimeconfig.cache
+C:\Coding Challenge\DotNetWebApiApp\obj\Debug\net9.0\ref\DotNetWebApiApp.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\appsettings.Development.json
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\appsettings.json
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.staticwebassets.endpoints.json
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.exe
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.deps.json
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.runtimeconfig.json
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\DotNetWebApiApp.pdb
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Core.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Generation.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\YamlDotNet.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.csproj.AssemblyReference.cache
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.AssemblyInfoInputs.cache
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.AssemblyInfo.cs
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.csproj.CoreCompileInputs.cache
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.MvcApplicationPartsAssemblyInfo.cs
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.MvcApplicationPartsAssemblyInfo.cache
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\scopedcss\bundle\DotNetWebApiApp.styles.css
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWe.86CDE0D2.Up2Date
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\refint\DotNetWebApiApp.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.pdb
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\DotNetWebApiApp.genruntimeconfig.cache
+C:\DATACOM Coding Challenge\life-before-you-backend\obj\Debug\net9.0\ref\DotNetWebApiApp.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\DATACOM Coding Challenge\life-before-you-backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
