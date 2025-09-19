@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 
 const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyD_8jA2npLjh2wclA8QTM9FcZRYBi28UoA" });
+const ai = new GoogleGenAI({ apiKey: API_KEY });
 
 async function SendPrompt(name, age, gender) {
   const response = await ai.models.generateContent({
